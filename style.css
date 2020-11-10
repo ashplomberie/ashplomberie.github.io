@@ -86,7 +86,7 @@ body {
 	background-size: cover;
 	background-image: url("ash-logo1.png");
 	height: 45vh; /*viewport height */
-	width: 100%;
+	width: 100%; /*viewport width */
 }
 h2 span {color: #F67119}
 h1 span {color: #F67119}
